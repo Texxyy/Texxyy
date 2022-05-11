@@ -9,4 +9,4 @@
          height="50px"></a>
 </div>
 <h1></h1>
-<h3 align="center">Currently working on <a href="https://github.com/Starlight-Network">Starlight</a> and <a href="https://github.com/Galaxy-Codes">Galaxy Codes</a> 🚀</h3>
+<h3 align="center">Currently working on <a href="https://github.com/Starlight-Network">StarlightMC</a>!</a> 🚀</h3>
