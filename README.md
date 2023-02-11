@@ -1,6 +1,12 @@
 <h3 align="center">Hiya 👋</h3>
+
+![Frozen](https://i.ytimg.com/vi/aJFVBQqW-dM/maxresdefault.jpg)
+
 <p align="center">My name is Texxyy and I am a new Developer! 💻</p>
 <p align="center">I always love to learn new things, meet new people, and I love working with others! 🏆</p>
+
+![Amelia Watson](https://images.wallpapersden.com/image/download/watson-amelia-virtual-youtuber_bGlqZ2yUmZqaraWkpJRnaWVlrWZnZWU.jpg)
+
 <br>
 <h3 align="center">Contact Me</h3>
 <div align="center">
