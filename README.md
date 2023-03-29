@@ -8,5 +8,3 @@
     <img src="https://raw.githubusercontent.com/gist/uzza1hossain/e2521e3150e68c2a68a78bdece8a29d9/raw/558a213049001c294356bfc4f2e1a6590ed04532/discord-logo.svg"
          height="50px"></a>
 </div>
-<h1></h1>
-<h3 align="center">Currently working on <a href="https://github.com/Starlight-Network">StarlightMC</a>!</a> 🚀</h3>
