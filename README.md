@@ -1,5 +1,5 @@
 <h3 align="center">Hiya 👋</h3>
-<p align="center">My name is Texxyy and I am a new Developer! 💻</p>
+<p align="center">My name is Texxyy and I am a new developer! 💻</p>
 <p align="center">I always love to learn new things, meet new people, and I love working with others! 🏆</p>
 <br>
 <h3 align="center">Contact Me</h3>
